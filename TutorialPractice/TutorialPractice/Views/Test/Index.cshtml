@@ -1,0 +1,31 @@
+﻿@* this controller is for tutorial
+   "Part 3 - VIEW in Asp.net MVC (Model-View -Controller)"
+   youtube link : https://www.youtube.com/watch?v=Pt2UoRFuT-Y *@
+
+@{
+    ViewBag.Title = "Index";
+    Layout = null; @* if u dont want to apply the _Layout.cshtml's template. *@
+}
+
+@* the viewbag's code usage.*@
+@ViewBag.Name
+
+<link href="~/Content/bootstrap.css" rel="stylesheet" />
+
+<table class="table table-striped">
+    <tr>
+        <th>
+            Name List
+        </th>
+    </tr>
+    <tbody>
+        @foreach(var item in ViewBag.list)
+        {
+            <tr>
+                <td>
+                    @item
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
