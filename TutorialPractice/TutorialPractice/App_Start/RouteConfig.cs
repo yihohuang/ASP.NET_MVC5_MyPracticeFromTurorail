@@ -18,11 +18,11 @@ namespace TutorialPractice
              * and youtube link : 
              * https://www.youtube.com/watch?v=g2GbL4hPOMg&spfreload=1 
              * will explain the principle. */
-            //routes.MapRoute(
-            //    name: "Default",
-            //    url: "{controller}/{action}/{id}",
-            //    defaults: new { controller = "Home", action = "Index", id = UrlParameter.Optional }
-            //);
+            routes.MapRoute(
+                name: "Default",
+                url: "{controller}/{action}/{id}",
+                defaults: new { controller = "Home", action = "Index", id = UrlParameter.Optional }
+            );
 
             /* in Part 2 - CONTROLLER in Asp.net MVC | Role of Routing in MVC,
              * u can define your url pattern. */
@@ -32,11 +32,12 @@ namespace TutorialPractice
             //    defaults: new { controller = "Home", action = "GetName", id = UrlParameter.Optional }
             //);
 
-            routes.MapRoute(
-                name: "Default",
-                url: "{controller}/{action}/{id}",
-                defaults: new { controller = "Test", action = "Index", id = UrlParameter.Optional }
-            );
+            //for "TestController", if u want to run, please uncomment it.
+            //routes.MapRoute(
+            //    name: "Default",
+            //    url: "{controller}/{action}/{id}",
+            //    defaults: new { controller = "Test", action = "Index", id = UrlParameter.Optional }
+            //);
         }
     }
 }

@@ -72,3 +72,29 @@ D:\MyPracticeFromTutorial\ASP.NET_MVC5_MyPracticeFromTurorail\TutorialPractice\T
 D:\MyPracticeFromTutorial\ASP.NET_MVC5_MyPracticeFromTurorail\TutorialPractice\TutorialPractice\obj\Debug\TutorialPractice.csprojResolveAssemblyReference.cache
 D:\MyPracticeFromTutorial\ASP.NET_MVC5_MyPracticeFromTurorail\TutorialPractice\TutorialPractice\obj\Debug\TutorialPractice.dll
 D:\MyPracticeFromTutorial\ASP.NET_MVC5_MyPracticeFromTurorail\TutorialPractice\TutorialPractice\obj\Debug\TutorialPractice.pdb
+D:\Program File\ASP.NET Learning\ASP.NET_MVC5_MyPracticeFromTurorail\TutorialPractice\TutorialPractice\bin\TutorialPractice.dll.config
+D:\Program File\ASP.NET Learning\ASP.NET_MVC5_MyPracticeFromTurorail\TutorialPractice\TutorialPractice\bin\TutorialPractice.dll
+D:\Program File\ASP.NET Learning\ASP.NET_MVC5_MyPracticeFromTurorail\TutorialPractice\TutorialPractice\bin\TutorialPractice.pdb
+D:\Program File\ASP.NET Learning\ASP.NET_MVC5_MyPracticeFromTurorail\TutorialPractice\TutorialPractice\bin\Antlr3.Runtime.dll
+D:\Program File\ASP.NET Learning\ASP.NET_MVC5_MyPracticeFromTurorail\TutorialPractice\TutorialPractice\bin\Microsoft.Web.Infrastructure.dll
+D:\Program File\ASP.NET Learning\ASP.NET_MVC5_MyPracticeFromTurorail\TutorialPractice\TutorialPractice\bin\Newtonsoft.Json.dll
+D:\Program File\ASP.NET Learning\ASP.NET_MVC5_MyPracticeFromTurorail\TutorialPractice\TutorialPractice\bin\System.Web.Helpers.dll
+D:\Program File\ASP.NET Learning\ASP.NET_MVC5_MyPracticeFromTurorail\TutorialPractice\TutorialPractice\bin\System.Web.Mvc.dll
+D:\Program File\ASP.NET Learning\ASP.NET_MVC5_MyPracticeFromTurorail\TutorialPractice\TutorialPractice\bin\System.Web.Optimization.dll
+D:\Program File\ASP.NET Learning\ASP.NET_MVC5_MyPracticeFromTurorail\TutorialPractice\TutorialPractice\bin\System.Web.Razor.dll
+D:\Program File\ASP.NET Learning\ASP.NET_MVC5_MyPracticeFromTurorail\TutorialPractice\TutorialPractice\bin\System.Web.WebPages.Deployment.dll
+D:\Program File\ASP.NET Learning\ASP.NET_MVC5_MyPracticeFromTurorail\TutorialPractice\TutorialPractice\bin\System.Web.WebPages.dll
+D:\Program File\ASP.NET Learning\ASP.NET_MVC5_MyPracticeFromTurorail\TutorialPractice\TutorialPractice\bin\System.Web.WebPages.Razor.dll
+D:\Program File\ASP.NET Learning\ASP.NET_MVC5_MyPracticeFromTurorail\TutorialPractice\TutorialPractice\bin\WebGrease.dll
+D:\Program File\ASP.NET Learning\ASP.NET_MVC5_MyPracticeFromTurorail\TutorialPractice\TutorialPractice\bin\Antlr3.Runtime.pdb
+D:\Program File\ASP.NET Learning\ASP.NET_MVC5_MyPracticeFromTurorail\TutorialPractice\TutorialPractice\bin\Newtonsoft.Json.xml
+D:\Program File\ASP.NET Learning\ASP.NET_MVC5_MyPracticeFromTurorail\TutorialPractice\TutorialPractice\bin\System.Web.Helpers.xml
+D:\Program File\ASP.NET Learning\ASP.NET_MVC5_MyPracticeFromTurorail\TutorialPractice\TutorialPractice\bin\System.Web.Mvc.xml
+D:\Program File\ASP.NET Learning\ASP.NET_MVC5_MyPracticeFromTurorail\TutorialPractice\TutorialPractice\bin\System.Web.Optimization.xml
+D:\Program File\ASP.NET Learning\ASP.NET_MVC5_MyPracticeFromTurorail\TutorialPractice\TutorialPractice\bin\System.Web.Razor.xml
+D:\Program File\ASP.NET Learning\ASP.NET_MVC5_MyPracticeFromTurorail\TutorialPractice\TutorialPractice\bin\System.Web.WebPages.xml
+D:\Program File\ASP.NET Learning\ASP.NET_MVC5_MyPracticeFromTurorail\TutorialPractice\TutorialPractice\bin\System.Web.WebPages.Deployment.xml
+D:\Program File\ASP.NET Learning\ASP.NET_MVC5_MyPracticeFromTurorail\TutorialPractice\TutorialPractice\bin\System.Web.WebPages.Razor.xml
+D:\Program File\ASP.NET Learning\ASP.NET_MVC5_MyPracticeFromTurorail\TutorialPractice\TutorialPractice\obj\Debug\TutorialPractice.csprojResolveAssemblyReference.cache
+D:\Program File\ASP.NET Learning\ASP.NET_MVC5_MyPracticeFromTurorail\TutorialPractice\TutorialPractice\obj\Debug\TutorialPractice.dll
+D:\Program File\ASP.NET Learning\ASP.NET_MVC5_MyPracticeFromTurorail\TutorialPractice\TutorialPractice\obj\Debug\TutorialPractice.pdb
