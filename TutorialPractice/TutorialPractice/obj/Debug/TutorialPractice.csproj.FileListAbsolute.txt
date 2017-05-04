@@ -98,3 +98,9 @@ D:\Program File\ASP.NET Learning\ASP.NET_MVC5_MyPracticeFromTurorail\TutorialPra
 D:\Program File\ASP.NET Learning\ASP.NET_MVC5_MyPracticeFromTurorail\TutorialPractice\TutorialPractice\obj\Debug\TutorialPractice.csprojResolveAssemblyReference.cache
 D:\Program File\ASP.NET Learning\ASP.NET_MVC5_MyPracticeFromTurorail\TutorialPractice\TutorialPractice\obj\Debug\TutorialPractice.dll
 D:\Program File\ASP.NET Learning\ASP.NET_MVC5_MyPracticeFromTurorail\TutorialPractice\TutorialPractice\obj\Debug\TutorialPractice.pdb
+D:\MyPracticeFromTutorial\ASP.NET_MVC5_MyPracticeFromTurorail\TutorialPractice\TutorialPractice\bin\System.Net.Http.Formatting.dll
+D:\MyPracticeFromTutorial\ASP.NET_MVC5_MyPracticeFromTurorail\TutorialPractice\TutorialPractice\bin\System.Web.Http.dll
+D:\MyPracticeFromTutorial\ASP.NET_MVC5_MyPracticeFromTurorail\TutorialPractice\TutorialPractice\bin\System.Web.Http.WebHost.dll
+D:\MyPracticeFromTutorial\ASP.NET_MVC5_MyPracticeFromTurorail\TutorialPractice\TutorialPractice\bin\System.Net.Http.Formatting.xml
+D:\MyPracticeFromTutorial\ASP.NET_MVC5_MyPracticeFromTurorail\TutorialPractice\TutorialPractice\bin\System.Web.Http.xml
+D:\MyPracticeFromTutorial\ASP.NET_MVC5_MyPracticeFromTurorail\TutorialPractice\TutorialPractice\bin\System.Web.Http.WebHost.xml

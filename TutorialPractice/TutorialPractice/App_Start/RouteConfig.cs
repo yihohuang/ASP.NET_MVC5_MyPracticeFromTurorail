@@ -18,6 +18,7 @@ namespace TutorialPractice
              * and youtube link : 
              * https://www.youtube.com/watch?v=g2GbL4hPOMg&spfreload=1 
              * will explain the principle. */
+            /*<--the default route--> || plz uncomment it.*/
             routes.MapRoute(
                 name: "Default",
                 url: "{controller}/{action}/{id}",
@@ -37,6 +38,13 @@ namespace TutorialPractice
             //    name: "Default",
             //    url: "{controller}/{action}/{id}",
             //    defaults: new { controller = "Test", action = "Index", id = UrlParameter.Optional }
+            //);
+
+            /*test for role_def's restful api.*/
+            //routes.MapRoute(
+            //    name: "Default",
+            //    url: "{controller}/{action}/{id}",
+            //    defaults: new { controller = "Test", action = "TestJson", id = UrlParameter.Optional }
             //);
         }
     }

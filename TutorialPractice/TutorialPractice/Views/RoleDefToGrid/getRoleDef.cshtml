@@ -1,0 +1,96 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>getRoleDef</title>
+
+    @Scripts.Render("~/bundles/modernizr")
+    @Scripts.Render("~/bundles/jquery")
+
+    <link href="~/Content/kendo.common.min.css" rel="stylesheet" type="text/css" />
+    <link href="~/Content/kendo.default.min.css" rel="stylesheet" type="text/css" />
+    <link href="~/Content/kendo.default.mobile.min.css" rel="stylesheet" type="text/css" />
+    <link href="~/Content/bootstrap.css" rel="stylesheet" type="text/css" />
+
+    <script src="~/Scripts/kendo.all.min.js"></script>
+    <script src="@Url.Content("~/Scripts/kendo.modernizr.custom.js")"></script>
+
+</head>
+<body>
+    <style type="text/css">
+        #fontA {
+            font-size:20px;
+        }
+    </style>
+
+    <div id="fontA" class="col-lg-12">
+        <div id="grid"></div>
+    </div>
+    
+    <script>
+        $("#grid").kendoGrid({
+            dataSource: {
+                type: "json",
+
+                transport: {
+                    read: function (options) {
+                        $.ajax({
+                            url: 'http://localhost:51686/roledeftogrid/getroledefdata',
+                            dataType: "json",
+                            success: function (result) {
+                                options.success(result);
+                            }
+                        });
+                    }
+                },
+
+                batch: true,
+
+                schema: {
+                    type: "json",
+                    model: {
+                        id: "roleId",
+                        fields: {
+                            roleId: { type: "int" },
+                            comment: { type: "string" },
+                            parentRoleId: { type: "int" },
+                            active: { type: "bool" }
+                        }                    
+                    }    
+                },
+            },
+
+            height: 430,
+            filterable: true,
+            groupable: true,
+            sortable: true,
+            pageable: true,
+
+            columns: [
+                {
+                    field: "roleId",
+                    title: "Role ID"
+                },
+                {
+                    field: "comment",
+                    title: "Comment"
+                },
+                {
+                    field: "parentRoleId",
+                    title: "Parent Role ID"
+                },
+                {
+                    field: "active",
+                    title: "Active"
+                }
+            ]
+
+        });
+    </script>
+</body>
+</html>
